@@ -4,7 +4,6 @@
 
 This repository provides a detailed, side-by-side comparison of the most popular Amazon Web Services (AWS) and Microsoft Azure services and entities. It helps developers, architects, and cloud engineers understand the similarities between the two cloud platforms, making it easier to plan migrations, hybrid architectures, and multi-cloud deployments. The list includes core services from compute, storage, networking, databases, security, analytics, machine learning, and more, alongside their Azure equivalents. Each service comes with a brief description of its purpose and functionality, helping teams quickly identify the tools they need on either platform.
 
-This resource is invaluable for cloud professionals working across AWS and Azure, simplifying the process of cloud-native development, cost optimization, and seamless integration of workloads in multi-cloud environments.
 
 | **Category**           | **AWS Service/Entity**                  | **Azure Equivalent**                      | **Description**                                                                                 |
 |-------------------------|-----------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -72,10 +71,3 @@ This resource is invaluable for cloud professionals working across AWS and Azure
 | **Networking**          | AWS Global Accelerator                 | Azure Front Door/Azure Traffic Manager    | Improves application performance using global edge networks.                                   |
 | **Management**          | AWS Systems Manager Parameter Store    | Azure Automation Variables                | Centralized storage of configuration parameters.                                               |
 | **Monitoring & Logging**| AWS CloudWatch Logs                    | Azure Monitor Logs                        | Centralized log monitoring and analysis.                                                       |
-
-## Contributing to This Repository
-
-We welcome contributions from the community. If you have any suggestions for new questions or answers, please feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License.

@@ -30,7 +30,6 @@ This repository provides a detailed, side-by-side comparison of the most popular
 | **Networking**          | Subnet                                 | Subnet                                    | Subdivisions within a VPC/VNet for organizing resources.                                       |
 | **Networking**          | Internet Gateway                       | Internet Gateway                          | Connects cloud networks to the internet.                                                       |
 | **Networking**          | NAT Gateway                            | NAT Gateway                               | Enables outbound internet traffic for private subnets.                                         |
-| **Networking**          | Elastic Load Balancing                 | Azure Load Balancer                       | Automatic distribution of traffic across resources.                                            |
 | **Networking**          | AWS Network Load Balancer (NLB)        | Azure Load Balancer                       | Automatic distribution of Layer 4 traffic across resources.                                     |
 | **Networking**          | AWS Application Load Balancer (ALB)    | Azure Application Gateway                 | Layer 7 load balancing and web traffic routing.                                            |
 | **Networking**          | Amazon Route 53                        | Azure DNS                                 | Domain Name System management.                                                                 |
